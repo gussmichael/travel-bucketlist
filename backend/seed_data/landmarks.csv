@@ -1,0 +1,127 @@
+name,country,country_code,latitude,longitude,description,region
+Eiffelturm,France,FR,48.8584,2.2945,Wahrzeichen von Paris,Europa
+Kolosseum,Italy,IT,41.8902,12.4922,Antikes Amphitheater in Rom,Europa
+Sagrada Familia,Spain,ES,41.4036,2.1744,Basilika von Gaudi in Barcelona,Europa
+Big Ben,United Kingdom,GB,51.5007,-0.1246,Uhrenturm am Palace of Westminster,Europa
+Brandenburger Tor,Germany,DE,52.5163,13.3777,Wahrzeichen von Berlin,Europa
+Akropolis,Greece,GR,37.9715,23.7267,Antike Zitadelle in Athen,Europa
+Schloss Neuschwanstein,Germany,DE,47.5576,10.7498,Maerchenschloss in Bayern,Europa
+Stonehenge,United Kingdom,GB,51.1789,-1.8262,Praehistorischer Steinkreis,Europa
+Schiefer Turm von Pisa,Italy,IT,43.7230,10.3966,Beruehmter schiefer Glockenturm,Europa
+Schloss Versailles,France,FR,48.8049,2.1204,Koenigliches Schloss bei Paris,Europa
+Hagia Sophia,Turkey,TR,41.0086,28.9802,Historische Moschee in Istanbul,Europa
+Charles Bridge,Czech Republic,CZ,50.0865,14.4114,Historische Bruecke in Prag,Europa
+Alhambra,Spain,ES,37.1761,-3.5881,Maurische Palastanlage in Granada,Europa
+Anne Frank Haus,Netherlands,NL,52.3752,4.8840,Museum in Amsterdam,Europa
+Fjorde,Norway,NO,61.5000,6.7500,Norwegische Fjordlandschaft,Europa
+Freiheitsstatue,United States,US,40.6892,-74.0445,Wahrzeichen von New York,Nordamerika
+Grand Canyon,United States,US,36.1069,-112.1129,Gewaltige Schlucht in Arizona,Nordamerika
+Golden Gate Bridge,United States,US,37.8199,-122.4783,Haengebruecke in San Francisco,Nordamerika
+Niagara Falls,Canada,CA,43.0962,-79.0377,Beruehmte Wasserfaelle,Nordamerika
+Times Square,United States,US,40.7580,-73.9855,Ikonischer Platz in New York,Nordamerika
+Yellowstone,United States,US,44.4280,-110.5885,Aeltester Nationalpark der Welt,Nordamerika
+Mount Rushmore,United States,US,43.8791,-103.4591,Praesidentenkoepfe im Felsen,Nordamerika
+Chichen Itza,Mexico,MX,20.6843,-88.5678,Maya-Ruinenstadt auf Yucatan,Nordamerika
+Antelope Canyon,United States,US,36.8619,-111.3743,Slot Canyon in Arizona,Nordamerika
+Banff Nationalpark,Canada,CA,51.4968,-115.9281,Nationalpark in den Rocky Mountains,Nordamerika
+Machu Picchu,Peru,PE,-13.1631,-72.5450,Inka-Zitadelle in den Anden,Suedamerika
+Christus-Statue,Brazil,BR,-22.9519,-43.2105,Christusstatue in Rio de Janeiro,Suedamerika
+Iguazu-Wasserfaelle,Argentina,AR,-25.6953,-54.4367,Groesstes Wasserfallsystem der Welt,Suedamerika
+Galapagos-Inseln,Ecuador,EC,-0.9538,-90.9656,Einzigartige Tierwelt im Pazifik,Suedamerika
+Salar de Uyuni,Bolivia,BO,-20.1338,-67.4891,Groesster Salzsee der Welt,Suedamerika
+Moai-Statuen,Chile,CL,-27.1127,-109.3497,Steinstatuen auf der Osterinsel,Suedamerika
+Angel Falls,Venezuela,VE,5.9701,-62.5362,Hoechster Wasserfall der Welt,Suedamerika
+Torres del Paine,Chile,CL,-50.9423,-73.4068,Nationalpark in Patagonien,Suedamerika
+Chinesische Mauer,China,CN,40.4319,116.5704,Laengstes Bauwerk der Welt,Asien
+Taj Mahal,India,IN,27.1751,78.0421,Mausoleum aus weissem Marmor,Asien
+Angkor Wat,Cambodia,KH,13.4125,103.8670,Groesster Tempelkomplex der Welt,Asien
+Mount Fuji,Japan,JP,35.3606,138.7274,Heiliger Berg Japans,Asien
+Terrakotta-Armee,China,CN,34.3848,109.2734,Tausende Tonfiguren in Xi'an,Asien
+Borobudur,Indonesia,ID,-7.6079,110.2038,Buddhistischer Tempel auf Java,Asien
+Ha Long Bay,Vietnam,VN,20.9101,107.1839,Bucht mit Kalksteinfelsen,Asien
+Potala-Palast,China,CN,29.6554,91.1175,Palast des Dalai Lama in Lhasa,Asien
+Goldener Tempel,India,IN,31.6200,74.8765,Heiligster Sikh-Tempel in Amritsar,Asien
+Bagan,Myanmar,MM,21.1717,94.8585,Tausende Tempel und Pagoden,Asien
+Sigiriya,Sri Lanka,LK,7.9570,80.7603,Felsenfestung in Sri Lanka,Asien
+Fushimi Inari,Japan,JP,34.9671,135.7727,Tausende Torii-Tore in Kyoto,Asien
+Petronas Towers,Malaysia,MY,3.1578,101.7117,Zwillingstuerme in Kuala Lumpur,Asien
+Gardens by the Bay,Singapore,SG,1.2816,103.8636,Futuristische Gartenanlage,Asien
+Bali Reisterrassen,Indonesia,ID,-8.4315,115.3433,Tegallalang Reisterrassen,Asien
+Petra,Jordan,JO,30.3285,35.4444,Felsenstadt der Nabataeer,Naher Osten
+Pyramiden von Gizeh,Egypt,EG,29.9792,31.1342,Antike Weltwunder,Afrika
+Burj Khalifa,United Arab Emirates,AE,25.1972,55.2744,Hoechstes Gebaeude der Welt,Naher Osten
+Totes Meer,Israel,IL,31.5000,35.5000,Tiefster Punkt der Erde,Naher Osten
+Klagemauer,Israel,IL,31.7767,35.2345,Heilige Staette in Jerusalem,Naher Osten
+Felsendom,Israel,IL,31.7781,35.2354,Islamisches Heiligtum in Jerusalem,Naher Osten
+Wadi Rum,Jordan,JO,29.5321,35.4112,Wuestenlandschaft in Jordanien,Naher Osten
+Persepolis,Iran,IR,29.9352,52.8917,Antike persische Hauptstadt,Naher Osten
+Kappadokien,Turkey,TR,38.6431,34.8289,Feenkamine und Heissluftballons,Europa
+Kilimandscharo,Tanzania,TZ,-3.0674,37.3556,Hoechster Berg Afrikas,Afrika
+Serengeti,Tanzania,TZ,-2.3333,34.8333,Beruehmtes Wildreservat,Afrika
+Tafelberg,South Africa,ZA,-33.9625,18.4034,Wahrzeichen von Kapstadt,Afrika
+Victoria Falls,Zambia,ZM,-17.9243,25.8572,Groesster Wasservorhang der Welt,Afrika
+Sahara,Morocco,MA,31.0000,-4.0000,Groesste Heisswueste der Welt,Afrika
+Kruger Nationalpark,South Africa,ZA,-23.9884,31.5547,Groesstes Wildreservat Suedafrikas,Afrika
+Marrakesch Medina,Morocco,MA,31.6295,-7.9811,Historische Altstadt,Afrika
+Sansibar,Tanzania,TZ,-6.1659,39.1989,Gewuerzinsel im Indischen Ozean,Afrika
+Lalibela,Ethiopia,ET,12.0319,39.0472,In Fels gehauene Kirchen,Afrika
+Okavango-Delta,Botswana,BW,-19.5000,22.5000,Binnendelta in der Kalahari,Afrika
+Sydney Opera House,Australia,AU,-33.8568,151.2153,Ikonisches Opernhaus,Ozeanien
+Great Barrier Reef,Australia,AU,-18.2871,147.6992,Groesstes Korallenriff der Welt,Ozeanien
+Ayers Rock (Uluru),Australia,AU,-25.3444,131.0369,Heiliger Felsen im Outback,Ozeanien
+Milford Sound,New Zealand,NZ,-44.6414,167.8978,Fjord auf der Suedinsel,Ozeanien
+Tongariro,New Zealand,NZ,-39.2778,175.5639,Vulkanischer Nationalpark,Ozeanien
+Bora Bora,French Polynesia,PF,-16.5004,-151.7415,Tropische Trauminsel,Ozeanien
+Twelve Apostles,Australia,AU,-38.6637,143.1050,Kalkstein-Felsformationen,Ozeanien
+Hobbiton,New Zealand,NZ,-37.8722,175.6830,Herr der Ringe Filmset,Ozeanien
+Santorini,Greece,GR,36.3932,25.4615,Kykladische Vulkaninsel,Europa
+Dubrovnik Altstadt,Croatia,HR,42.6507,18.0944,Mittelalterliche Festungsstadt,Europa
+Meteora,Greece,GR,39.7217,21.6307,Kloester auf Sandsteinfelsen,Europa
+Cinque Terre,Italy,IT,44.1461,9.6439,Fuenf bunte Kuestendoerfer,Europa
+Plitvice-Seen,Croatia,HR,44.8654,15.5820,Kaskadierende Seen und Wasserfaelle,Europa
+Nordlichter (Tromso),Norway,NO,69.6492,18.9553,Aurora Borealis im Norden,Europa
+Mont-Saint-Michel,France,FR,48.6360,-1.5115,Klosterinsel in der Normandie,Europa
+Edinburgh Castle,United Kingdom,GB,55.9486,-3.1999,Historische Burg in Schottland,Europa
+Hallstatt,Austria,AT,47.5622,13.6493,Malerisches Alpendorf,Europa
+Preikestolen,Norway,NO,58.9863,6.1866,Aussichtskanzel ueber dem Fjord,Europa
+Blaue Lagune,Iceland,IS,63.8804,-22.4495,Geothermales Bad auf Island,Europa
+Geysir,Iceland,IS,64.3104,-20.3024,Heisse Quellen auf Island,Europa
+Mostar Alte Bruecke,Bosnia and Herzegovina,BA,43.3372,17.8150,Historische Bogenbruecke,Europa
+Moskauer Kreml,Russia,RU,55.7520,37.6175,Regierungssitz und Festung,Europa
+Vatikan,Vatican City,VA,41.9029,12.4534,Kleinster Staat der Welt,Europa
+Louvre,France,FR,48.8606,2.3376,Beruehmtestes Museum der Welt,Europa
+Pompeji,Italy,IT,40.7508,14.4869,Verschuettete roemische Stadt,Europa
+Matterhorn,Switzerland,CH,45.9763,7.6586,Ikonischer Alpengipfel,Europa
+Amalfikueste,Italy,IT,40.6333,14.6029,Dramatische Kuestenstrasse,Europa
+Gaudi Park Guell,Spain,ES,41.4145,2.1527,Bunter Mosaikpark in Barcelona,Europa
+Rijksmuseum,Netherlands,NL,52.3600,4.8852,Niederlaendisches Nationalmuseum,Europa
+Kreml Basilius-Kathedrale,Russia,RU,55.7525,37.6231,Bunte Kathedrale am Roten Platz,Europa
+Wieliczka Salzmine,Poland,PL,49.9833,20.0556,Unterirdische Salzkathedrale,Europa
+Schloss Bran,Romania,RO,45.5151,25.3672,Dracula-Schloss in Transsilvanien,Europa
+Rialtobruecke,Italy,IT,45.4380,12.3360,Historische Bruecke in Venedig,Europa
+Golden Gate Park,United States,US,37.7694,-122.4862,Grosser Stadtpark in San Francisco,Nordamerika
+Walt Disney World,United States,US,28.3852,-81.5639,Groesster Freizeitpark der Welt,Nordamerika
+Alcatraz,United States,US,37.8267,-122.4233,Ehemalige Gefaengnisinsel,Nordamerika
+Central Park,United States,US,40.7829,-73.9654,Ikonischer Stadtpark in Manhattan,Nordamerika
+Hollywood Sign,United States,US,34.1341,-118.3215,Beruehmtes Schriftzugzeichen,Nordamerika
+Havanna Altstadt,Cuba,CU,23.1365,-82.3590,Koloniale Altstadt auf Kuba,Nordamerika
+Tikal,Guatemala,GT,17.2220,-89.6237,Maya-Ruinen im Regenwald,Nordamerika
+Cenoten Yucatan,Mexico,MX,20.6596,-87.4291,Natuerliche Kalksteinloecher,Nordamerika
+Lake Louise,Canada,CA,51.4254,-116.1773,Tuerkiser Bergsee in Alberta,Nordamerika
+Teotihuacan,Mexico,MX,19.6925,-98.8438,Pyramidenstadt bei Mexiko-Stadt,Nordamerika
+Amazonas-Regenwald,Brazil,BR,-3.4653,-62.2159,Groesster Regenwald der Welt,Suedamerika
+Perito Moreno Gletscher,Argentina,AR,-50.4967,-73.1377,Aktiver Gletscher in Patagonien,Suedamerika
+Copacabana,Brazil,BR,-22.9711,-43.1822,Beruehmter Strand in Rio,Suedamerika
+Sacred Valley,Peru,PE,-13.3333,-72.0833,Heiliges Tal der Inka,Suedamerika
+Atacama-Wueste,Chile,CL,-23.8634,-69.1328,Trockenste Wueste der Welt,Suedamerika
+Meiji-Schrein,Japan,JP,35.6764,139.6993,Shinto-Schrein in Tokio,Asien
+Verbotene Stadt,China,CN,39.9163,116.3972,Kaiserpalast in Peking,Asien
+Jaipur Palast der Winde,India,IN,26.9239,75.8267,Hawa Mahal in Rajasthan,Asien
+Halong-Bucht,Vietnam,VN,20.9101,107.1839,Kalksteininseln im Meer,Asien
+Tempelstadt Bagan,Myanmar,MM,21.1717,94.8585,Ueber 2000 Tempel in Myanmar,Asien
+Li-Fluss,China,CN,24.9316,110.1866,Malerische Flusslandschaft bei Guilin,Asien
+Wat Phra Kaew,Thailand,TH,13.7516,100.4927,Tempel des Smaragd-Buddha in Bangkok,Asien
+Mount Everest Basecamp,Nepal,NP,28.0025,86.8528,Basislager des hoechsten Berges,Asien
+Jigokudani,Japan,JP,36.7330,133.5330,Schneeaffen in heissen Quellen,Asien
+Phi Phi Islands,Thailand,TH,7.7407,98.7784,Tropische Inseln in der Andamanensee,Asien
+Raja Ampat,Indonesia,ID,-0.2348,130.5179,Taucherparadies in Westpapua,Asien
